@@ -1094,3 +1094,4 @@ function display_all_emoji(){
     echo "${emoji[$k]}  = $k"
   done
 }
+
